@@ -14,6 +14,6 @@ Connecticum Space is a leading provider of cloud solutions, web development, sof
 We're passionate about helping businesses thrive in the digital age. Contact us to discuss how we can collaborate on your next project!
 
 - **Email:** coming soon...
-- **Website:** ![connecticum.space](htts://connecticum.space)
+- **Website:** [connecticum.space](https://connecticum.space)
 
 Thank you for considering Connecticum Space for your digital needs. We look forward to working with you!
