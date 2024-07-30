@@ -13,7 +13,7 @@ Connecticum Space is a leading provider of cloud solutions, web development, sof
 ## Get in Touch
 We're passionate about helping businesses thrive in the digital age. Contact us to discuss how we can collaborate on your next project!
 
-- **Owner:** https://github.com/konovdan
+- **Owner:** [github.com/konovdan](https://github.com/konovdan)
 - **Website:** [connecticum.space](https://connecticum.space)
 
 Thank you for considering Connecticum Space for your digital needs. We look forward to working with you!
